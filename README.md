@@ -1,5 +1,11 @@
 # [go back to Overview](https://github.com/c4arl0s)
 
+In order to update an existing Git submodule execute (You migh need permissions from Owner)
+
+```console
+ git submodule update --remote --merge
+```
+
 # [Combine Asynchronous Programming with Swift - Content](https://github.com/c4arl0s/combineasynchronousprogrammingwithswift#go-back-to-overview)
 
 1. [x] 1. [Hello, Combine!](https://github.com/c4arl0s/1-Introduction-to-Combine)
