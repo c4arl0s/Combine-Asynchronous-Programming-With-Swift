@@ -1,3 +1,6 @@
 [submodule "1-Introduction-to-Combine"]
 	path = 1-Introduction-to-Combine
 	url = git@github.com:c4arl0s/1-Introduction-to-Combine.git
+[submodule "2-Operators"]
+	path = 2-Operators
+	url = git@github.com:c4arl0s/2-Operators.git
